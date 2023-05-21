@@ -1,0 +1,80 @@
+------------New payment------------
+Paid date: 2021-01-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-02-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-03-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2022-01-01
+Paid sum: 125.80
+Apartment: apartment number: 2, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-01-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-02-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-03-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2022-01-01
+Paid sum: 125.80
+Apartment: apartment number: 2, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-01-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-02-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-03-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2022-01-01
+Paid sum: 125.80
+Apartment: apartment number: 2, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-01-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-02-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2021-03-05
+Paid sum: 103.30
+Apartment: apartment number: 1, floor: 1
+Building: id: 1, address: Sofia
+------------New payment------------
+Paid date: 2022-01-01
+Paid sum: 125.80
+Apartment: apartment number: 2, floor: 1
+Building: id: 1, address: Sofia
